@@ -1,0 +1,3 @@
+[autorun]
+open=pyserver.py
+icon=usbicon.ico
